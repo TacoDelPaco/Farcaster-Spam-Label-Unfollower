@@ -36,3 +36,11 @@ Once the setup is complete, run the script from your terminal:
 npm start
 
 The script will begin fetching data from Dune. Once it has the list of FIDs, it will print them and ask for your confirmation. Type yes and press Enter to proceed with unfollowing, or type anything else to cancel.
+
+**To get started, follow these steps:**
+
+1.  Download the four files I've provided into a new folder.
+2.  Open the `README.md` file and follow the "Setup Instructions" carefully. You will need to get API keys from both Dune and Neynar.
+3.  Once set up, you can run the script using `npm start` in your terminal.
+
+Please be extremely careful and review the FIDs the script suggests before confirming the action. Let me know if you have any questions!
